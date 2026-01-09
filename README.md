@@ -52,11 +52,8 @@ watch-project/
 ## 🎯 Purpose
 
 This project was created to practice:
-
 JavaScript DOM manipulation
-
 CSS transforms and positioning
-
 Working with real-time data in JavaScript
 
 📌 Author
